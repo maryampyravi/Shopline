@@ -100,7 +100,9 @@
 
 - 📩 ایمیل: `your-email@example.com`
 - 💬 تلگرام: `@your_username`
-- 🔗 لینکدین: `linkedin.com/in/your-profile`
+- 🔗 لینک نمونه کار:               'https://my-home-mart.base44.app   '
+  🖋️⚡# لطفاً جهت دیدن نمونه کار  "من کارفرما هستم " را به تلگرام پیام کنید.
+  
 
 ---
 
